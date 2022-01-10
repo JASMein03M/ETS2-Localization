@@ -8,7 +8,7 @@ mod_package : .package_name {
 	package_version: "1.7"
 
 	# Display name can be any string with any length.
-	display_name: "Univesal English Localization"
+	display_name: "Universal English Localization"
 
 	# Author can be any string with any length.
 	author: "iMarbot"
