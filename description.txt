@@ -1,6 +1,6 @@
 ﻿[blue]Universal English Localizations for Countries & Cities
 
-[normal]Some map mods do not properly provide localize their names to Enlgish or the local language.
+[normal]Some map mods do not properly provide localize their names to English or the local language.
 [normal]This mod aims to fix that and hopefully push forward localization which has existed since v1.33.
 
 [orange]-------------------------------------------------------------------------------------------------------------------
