@@ -1,0 +1,207 @@
+SiiNunit
+{
+localization_db : .localization
+{
+	#TIMEZONES
+		key[]: "tz_almt"
+		val[]: "GMT+06:00" #Alma-Ata Time (it's "GMT+06:00" cause there is no specific name in dutch for this time in this region)
+
+		key[]: "tz_orat"
+		val[]: "GMT+05:00" #Oral Time (same as for the above)
+
+		key[]: "tz_aqtt"
+		val[]: "GMT+05:00" #Aqtobe Time (same as the above)
+
+
+
+	#KAZAHSTAN
+		key[]: "kazakhstan"
+		val[]: "Kazachstan"
+
+
+		key[]: "agadyr"
+		val[]: "Agadyr'"
+
+		key[]: "akshat"
+		val[]: "Akshat"
+
+		key[]: "akshatau"
+		val[]: "Akshatau"
+
+		key[]: "aksuayuly"
+		val[]: "Aksu-Ayuly"
+
+		key[]: "aktau"
+		val[]: "Aqtau"
+
+		key[]: "aktobe"
+		val[]: "Aqtöbe"
+
+		key[]: "alga"
+		val[]: "Alga"
+
+		key[]: "aralsk"
+		val[]: "Aral'sk"
+
+		key[]: "astana"
+		val[]: "Noersoeltan"
+
+		key[]: "atasu"
+		val[]: "Atasu"
+
+		key[]: "atyrau"
+		val[]: "Atiraw"
+
+		key[]: "balkhash"
+		val[]: "Balkhash"
+
+		key[]: "bayanaul"
+		val[]: "Bayanaul"
+
+		key[]: "beyneu"
+		val[]: "Beyneu"
+
+		key[]: "botakara"
+		val[]: "Botakara"
+
+		key[]: "dossor"
+		val[]: "Dossor"
+
+		key[]: "ekibastuz"
+		val[]: "Ekibastuz"
+
+		key[]: "emba"
+		val[]: "Emba"
+
+		key[]: "furmanovo"
+		val[]: "Furmanovo"
+
+		key[]: "inderborsky"
+		val[]: "Inderborskiy"
+
+		key[]: "kandyagash"
+		val[]: "Kandyagash"
+
+		key[]: "karabalyk"
+		val[]: "Karabalyk"
+
+		key[]: "karabutak"
+		val[]: "Karabutak"
+
+		key[]: "karaganda"
+		val[]: "Karaganda"
+
+		key[]: "karkaralinsk"
+		val[]: "Karkaraly District"
+
+		key[]: "khromtau"
+		val[]: "Khromtau"
+
+		key[]: "kievka"
+		val[]: "Nura"
+
+		key[]: "kobda"
+		val[]: "Kobda"
+
+		key[]: "kokshetau"
+		val[]: "Köksetaw"
+
+		key[]: "koktenkol"
+		val[]: "Koktinkoli'"
+
+		key[]: "korneevka"
+		val[]: "Korneyevka"
+
+		key[]: "kostanay"
+		val[]: "Qostanay"
+
+		key[]: "kulsari"
+		val[]: "Kul'sary"
+
+		key[]: "kyzylorda"
+		val[]: "Qizilorda"
+
+		key[]: "lisakovsk"
+		val[]: "Lisakovsk"
+
+		key[]: "makat"
+		val[]: "Makat"
+
+		key[]: "mangystau"
+		val[]: "Mangistaw"
+
+		key[]: "molodezhniy"
+		val[]: "Molodezhnyy"
+
+		key[]: "mukur"
+		val[]: "Mukur"
+
+		key[]: "osakarovka"
+		val[]: "Osakarovka"
+
+		key[]: "rudnyy"
+		val[]: "Rudnyy"
+
+		key[]: "saiotes"
+		val[]: "Sayotes"
+
+		key[]: "saran"
+		val[]: "Saran'"
+
+		key[]: "shahtinsk"
+		val[]: "Shakhtinsk"
+
+		key[]: "shalkar"
+		val[]: "Shalkar"
+
+		key[]: "shetpe"
+		val[]: "Shetpe"
+
+		key[]: "shubarkuduk"
+		val[]: "Shubarkuduk"
+
+		key[]: "shymkent"
+		val[]: "Simkent"
+
+		key[]: "temir"
+		val[]: "Temir"
+
+		key[]: "temirtau"
+		val[]: "Temirtau"
+
+		key[]: "tobol"
+		val[]: "Tobol"
+
+		key[]: "turkestan"
+		val[]: "Turkestan"
+
+		key[]: "uralsk"
+		val[]: "Oral"
+
+		key[]: "vishnevka"
+		val[]: "Arshaly"
+
+		key[]: "vzletnyy"
+		val[]: "Vzletnyy"
+
+		key[]: "zatobolsk"
+		val[]: "Zatobol'sk"
+
+		key[]: "zhanaozen"
+		val[]: "Zhanaozen"
+
+		key[]: "zharik"
+		val[]: "Zharik"
+
+		key[]: "zhezkazgan"
+		val[]: "Jezqazğan"
+
+		key[]: "zhympity"
+		val[]: "Zhympity"
+
+		
+	#RUSSIA
+		key[]: "ershov"
+		val[]: "Yershov"
+}
+}
